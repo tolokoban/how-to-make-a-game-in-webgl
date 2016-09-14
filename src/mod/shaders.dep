@@ -1,0 +1,7 @@
+{
+  "var": {
+    "vert/flat-color": "glsl/vert.flat-color.c",
+    "frag/flat-color": "glsl/frag.flat-color.c",
+    "projection": "glsl/projection.c"
+  }
+}

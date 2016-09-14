@@ -1,0 +1,2 @@
+require("test",function(r,e){function t(){return n(d,arguments)}var a,d={en:{}},n=require("$").intl,g=require("dom"),i=require("shaders"),o=document.body;g.add(o,g.tag("h1",["Vertex shaders"]));for(a in i.vert)g.add(o,g.tag("h2",[a]),g.tag("pre",[i.vert[a]]));g.add(o,g.tag("h1",["Fragment shaders"]));for(a in i.frag)g.add(o,g.tag("h2",[a]),g.tag("pre",[i.frag[a]]));e.exports._=t});
+//# sourceMappingURL=test.js.map
